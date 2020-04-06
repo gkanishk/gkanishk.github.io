@@ -54,3 +54,8 @@
     background: #bb0000;
     color: white;
   }
+  .blog{
+  background: url('https://api.iconify.design/icomoon-free:blog.svg') no-repeat center center / contain;
+  content: url('https://api.iconify.design/icomoon-free:blog.svg?height=16');
+  vertical-align: -0.125em;  
+}
