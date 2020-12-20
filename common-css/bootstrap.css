@@ -9825,6 +9825,10 @@ a.text-gray-dark:hover {
     .footer_description .site_logo.footer_logo:focus {
         color: #fff;
     }
+
+   .row .intro{
+        margin-top: 150px;
+    }
 }
 
 
