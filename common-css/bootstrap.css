@@ -352,6 +352,10 @@ body {
     outline: none !important;
 }
 
+.gap-2 {
+    gap: 8px
+}
+
 h1,
 h2,
 h3,
